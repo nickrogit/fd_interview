@@ -1,9 +1,9 @@
 # 前端面试-技术栈
-
-+ https://github.com/ljianshu/Blog 综合
-+ https://wangdoc.com/javascript/basic/index.html 基础
-+ https://juejin.im/post/5cb3376bf265da039c0543da 
-+ https://juejin.im/post/5cb0315f518825215e61ec14 高级
++ 综合
+	+ https://github.com/ljianshu/Blog
+	+ https://wangdoc.com/javascript/basic/index.html
+	+ https://juejin.im/post/5cb3376bf265da039c0543da
+	+ https://juejin.im/post/5cb0315f518825215e61ec14
 
 + JS基础
 	+ https://github.com/ljianshu/Blog/issues/63
